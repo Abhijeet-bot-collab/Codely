@@ -1,1 +1,1 @@
-# Codely : Laptop Prediction 
+Laptop Prediction App
