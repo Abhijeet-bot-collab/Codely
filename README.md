@@ -1,1 +1,1 @@
-Laptop Prediction App
+LAPTOP PREDICTION APP
